@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "PUPPET SHOW",
+  "base_artist": "XG",
+  "createdAt": "2026-02-17T19:10:39.727108Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Puppet Show",
+      "artist": "Avatar",
+      "has_synced": false,
+      "path": "select/01_Puppet_Show_Avatar.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Puppet Show",
+      "artist": "Danger Danger",
+      "has_synced": true,
+      "path": "select/02_Puppet_Show_Danger_Danger.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Puppet Show",
+      "artist": "Sleepytime Gorilla Museum",
+      "has_synced": true,
+      "path": "select/03_Puppet_Show_Sleepytime_Gorilla_Museum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Puppet Show",
+      "artist": "No Use for a Name",
+      "has_synced": false,
+      "path": "select/04_Puppet_Show_No_Use_for_a_Name.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Puppet Show",
+      "artist": "Avatar",
+      "has_synced": true,
+      "path": "select/05_Puppet_Show_Avatar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Puppet Show",
+      "artist": "P.M. Dawn",
+      "has_synced": false,
+      "path": "select/06_The_Puppet_Show_P.M._Dawn.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PUPPET SHOW",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/07_PUPPET_SHOW_XG.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PUPPET SHOW",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/08_PUPPET_SHOW_XG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Plague-House Puppet Show",
+      "artist": "Twilightning",
+      "has_synced": true,
+      "path": "select/09_Plague-House_Puppet_Show_Twilightning.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Plague-House Puppet Show (Album Version)",
+      "artist": "Twilightning",
+      "has_synced": true,
+      "path": "select/10_Plague-House_Puppet_Show_(Album_Version)_Twilightning.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Uncle Rupert's Puppet Show",
+      "artist": "Ilium",
+      "has_synced": false,
+      "path": "select/11_Uncle_Rupert's_Puppet_Show_Ilium.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Overthrow the puppet show!",
+      "artist": "Sugadaisy",
+      "has_synced": true,
+      "path": "select/12_Overthrow_the_puppet_show!_Sugadaisy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Puppet Show (feat. Arizona Zervas)",
+      "artist": "Abstract",
+      "has_synced": false,
+      "path": "select/13_Puppet_Show_(feat._Arizona_Zervas)_Abstract.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Puppet Show 2",
+      "artist": "L'Elfo",
+      "has_synced": true,
+      "path": "select/14_Puppet_Show_2_L'Elfo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Puppet Show",
+      "artist": "P․M․ Dawn",
+      "has_synced": false,
+      "path": "select/15_The_Puppet_Show_P.M._Dawn.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Puppet-show",
+      "artist": "Gidropony",
+      "has_synced": false,
+      "path": "select/16_Puppet-show_Gidropony.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PUPPET SHOW",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_PUPPET_SHOW_XG.txt"
+    }
+  ]
+}
